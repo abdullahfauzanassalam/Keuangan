@@ -1,0 +1,9 @@
+CATATAN KEUANGAN - aplikasi terpasang (PWA)
+
+1. Di Apps Script: isi baris PIN di Code.gs, Terapkan > Kelola deployment > Edit >
+   "Yang memiliki akses: Siapa saja" > Versi baru > Terapkan. Salin link /exec.
+2. Buka app.netlify.com/drop (login gratis), seret folder "catatan-keuangan" ini ke halaman itu.
+3. Buka alamat situs dari Netlify di HP (Chrome), isi link /exec dan PIN, lalu ketuk
+   "Pasang sebagai aplikasi" atau menu > Instal aplikasi.
+
+File di folder ini tidak perlu diubah. Data tetap tersimpan di Google Sheet Anda.
